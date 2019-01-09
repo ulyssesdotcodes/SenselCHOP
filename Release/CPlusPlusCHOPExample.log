@@ -1,0 +1,7 @@
+﻿  CPlusPlusCHOPExample.cpp
+     Creating library C:\Users\ulyssesp\Development\SenselCHOP\Release\CPlusPlusCHOPExample.lib and object C:\Users\ulyssesp\Development\SenselCHOP\Release\CPlusPlusCHOPExample.exp
+  LINK : /LTCG specified but no code generation required; remove /LTCG from the link command line to improve linker performance
+  CPlusPlusCHOPExample.vcxproj -> C:\Users\ulyssesp\Development\SenselCHOP\Release\CPlusPlusCHOPExample.dll
+  CPlusPlusCHOPExample.vcxproj -> C:\Users\ulyssesp\Development\SenselCHOP\Release\CPlusPlusCHOPExample.pdb (Full PDB)
+  C:\Program Files\Sensel\SenselLib\x64\LibSensel.dll
+  1 File(s) copied

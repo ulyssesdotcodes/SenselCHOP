@@ -1,0 +1,7 @@
+﻿  CPlusPlusCHOPExample.cpp
+CPlusPlusCHOPExample.cpp(154): warning C4018: '<': signed/unsigned mismatch
+     Creating library C:\Users\ulyssesp\Development\SenselCHOP\Debug\CPlusPlusCHOPExample.lib and object C:\Users\ulyssesp\Development\SenselCHOP\Debug\CPlusPlusCHOPExample.exp
+  CPlusPlusCHOPExample.vcxproj -> C:\Users\ulyssesp\Development\SenselCHOP\Debug\CPlusPlusCHOPExample.dll
+  CPlusPlusCHOPExample.vcxproj -> C:\Users\ulyssesp\Development\SenselCHOP\Debug\CPlusPlusCHOPExample.pdb (Full PDB)
+  C:\Program Files\Sensel\SenselLib\x64\LibSensel.dll
+  1 File(s) copied
